@@ -1,0 +1,507 @@
+#,Stage and Task,Error type
+1,Verification,Incorrect Docs
+2,Verification,Incorrect Data Input
+3,Verification,Incorrect Data Input
+4,Verification,Insufficient Docs
+5,Verification,Incorrect Data Input
+6,Verification,Incorrect Data Input
+7,Verification,Incorrect Data Input
+8,Verification,Insufficient Docs
+9,Verification,Insufficient Docs
+10,Verification,Incorrect Data Input
+11,Create Offer,Incorrect Data Input
+12,Accept Offer,Insufficient Docs
+13,Valuation,Insufficient Docs
+14,Verification,Incorrect Data Input
+15,Title Search,Incorrect Data Input
+16,Structure Solution,Incorrect Data Input
+17,Verification,Incorrect Data Input
+18,Verification,Incorrect Data Input
+19,Verification,Insufficient Docs
+20,Verification,Incorrect Data Input
+21,Verification,Incorrect Docs
+22,Verification,Insufficient Docs
+23,Title Search,Incorrect Data Input
+24,Verification,Incorrect Data Input
+25,Verification,Incorrect Data Input
+26,Verification,Incorrect Data Input
+27,Verification,Incorrect Data Input
+28,Verification,Insufficient Docs
+29,Verification,Incorrect Data Input
+30,Verification,Incorrect Data Input
+31,Title Search,Incorrect Data Input
+32,Title Search,Incorrect Data Input
+33,Title Search,Incorrect Data Input
+34,Verification,Insufficient Docs
+35,Verification,Incorrect Data Input
+36,Verification,Incorrect Data Input
+37,Create Offer,Insufficient Docs
+38,Create Offer,Incorrect Data Input
+39,Create Offer,Incorrect Data Input
+40,Create Offer,Incorrect Data Input
+41,Create Offer,Incorrect Data Input
+42,Verification,Incorrect Data Input
+43,Verification,Incorrect Data Input
+44,Verification,Incorrect Data Input
+45,Verification,Incorrect Data Input
+46,Verification,Insufficient Docs
+47,Verification,Incorrect Data Input
+48,Verification,Insufficient Docs
+49,Verification,Insufficient Docs
+50,Verification,Incorrect Docs
+51,Title Search,Insufficient Docs
+52,Title Search,Incorrect Data Input
+53,Verification,Incorrect Data Input
+54,Verification,Incorrect Data Input
+55,Verification,Incorrect Data Input
+56,Verification,Insufficient Docs
+57,Verification,Incorrect Data Input
+58,Title Search,Incorrect Data Input
+59,Verification,Incorrect Data Input
+60,Verification,Incorrect Data Input
+61,Verification,Incorrect Data Input
+62,Verification,Incorrect Data Input
+63,Verification,Incorrect Data Input
+64,Verification,Incorrect Data Input
+65,Verification,Incorrect Data Input
+66,Verification,Inadequate Supp. comments
+67,Verification,Incorrect Data Input
+68,MCD,Inadequate Supp. comments
+69,Verification,Incorrect Data Input
+70,Verification,Insufficient Docs
+71,Verification,Insufficient Docs
+72,Verification,Insufficient Docs
+73,Verification,Incorrect Data Input
+74,Verification,Insufficient Docs
+75,Verification,Insufficient Docs
+76,Verification,Incorrect Data Input
+77,Verification,Insufficient Docs
+78,Verification,Inadequate Supp. comments
+79,Verification,Insufficient Docs
+80,Create Offer,Incorrect Data Input
+81,MCD,Incorrect Data Input
+82,Verification,Incorrect Data Input
+83,Verification,Incorrect Data Input
+84,Verification,Incorrect Docs
+85,Verification,Incorrect Docs
+86,Verification,Insufficient Docs
+87,Verification,Insufficient Docs
+88,Create Offer,Incorrect Data Input
+89,MCD,Incorrect Data Input
+90,Verification,Incorrect Data Input
+91,Verification,Incorrect Data Input
+92,Verification,Incorrect Data Input
+93,Title Search,Incorrect Data Input
+94,MCD,Inadequate Supp. comments
+95,MCD,Inadequate Supp. comments
+96,Verification,Insufficient Docs
+97,Verification,Insufficient Docs
+98,Verification,Incorrect Data Input
+99,Create Offer,Incorrect Data Input
+100,Verification,Insufficient Docs
+101,MCD,Incorrect Data Input
+102,Verification,Incorrect Docs
+103,Complex Verification (SE),Insufficient Docs
+104,Verifications (Credit),Unnecessary Referral
+105,MCD,Cr. Comments not addr.
+106,Create Offer,Incorrect Data Input
+107,Create Offer,Incorrect Data Input
+108,Verification,Incorrect Docs
+109,MCD,Cr. Comments not addr.
+110,MCD,Incorrect Data Input
+111,MCD,Cr. Comments not addr.
+112,MCD,Incorrect Data Input
+113,Verification,Insufficient Docs
+114,Verification,Incorrect Data Input
+115,Verification,Incorrect Data Input
+116,Verification,Incorrect Data Input
+117,Verification,Incorrect Data Input
+118,Verification,Incorrect Data Input
+119,Verification,Inadequate Supp. comments
+120,Verification,Incorrect Data Input
+121,Verification,Incorrect Data Input
+122,Verification,Incorrect Data Input
+123,Verification,Incorrect Data Input
+124,Verification,Incorrect Data Input
+125,Verification,Incorrect Data Input
+126,Verification,Insufficient Docs
+127,MCD,Inadequate Supp. comments
+128,MCD,Inadequate Supp. comments
+129,MCD,Inadequate Supp. comments
+130,MCD,Incorrect Data Input
+131,Verification,Incorrect Data Input
+132,Verification,Incorrect Data Input
+133,Verification,Incorrect Data Input
+134,Verification,Incorrect Data Input
+135,Verification,Incorrect Data Input
+136,MCD,Incorrect Data Input
+137,MCD,Incorrect Data Input
+138,Create Offer,Incorrect Data Input
+139,Verification,Incorrect Data Input
+140,Verification,Incorrect Data Input
+141,Verification,Incorrect Data Input
+142,Verification,Incorrect Data Input
+143,Verification,Incorrect Data Input
+144,MCD,Incorrect Data Input
+145,MCD,Incorrect Data Input
+146,Verification,Incorrect Docs
+147,Verification,Insufficient Docs
+148,Verification,Incorrect Data Input
+149,Verification,Incorrect Data Input
+150,Verification,Incorrect Data Input
+151,Verification,Insufficient Docs
+152,Verification,Incorrect Data Input
+153,Verification,Insufficient Docs
+154,Verification,Insufficient Docs
+155,Verification,Insufficient Docs
+156,Verification,Insufficient Docs
+157,Verification,Incorrect Data Input
+158,Verification,Inadequate Supp. comments
+159,Verification,Incorrect Data Input
+160,Verification,Incorrect Data Input
+161,Verification,Incorrect Data Input
+162,Title Search,Insufficient Docs
+163,Verification,Incorrect Data Input
+164,Verification,Incorrect Data Input
+165,Verification,Incorrect Data Input
+166,Verification,Incorrect Data Input
+167,Verification,Incorrect Data Input
+168,Verification,Incorrect Data Input
+169,Verification,Incorrect Data Input
+170,Verification,Incorrect Data Input
+171,Verification,Incorrect Data Input
+172,MCD,Incorrect Data Input
+173,Verification,Incorrect Data Input
+174,MCD,Inadequate Supp. comments
+175,MCD,Incorrect Data Input
+176,Verification,Insufficient Docs
+177,Verification,Insufficient Docs
+178,Verification,Insufficient Docs
+179,Verification,Insufficient Docs
+180,MCD,Incorrect Data Input
+181,MCD,Incorrect Data Input
+182,Verification,Insufficient Docs
+183,Verification,Incorrect Data Input
+184,Verification,Insufficient Docs
+185,Verification,Incorrect Data Input
+186,Verification,Incorrect Data Input
+187,Verification,Inadequate Supp. comments
+188,MCD,Incorrect Data Input
+189,Verification,Incorrect Data Input
+190,Verification,Incorrect Data Input
+191,MCD,Incorrect Docs
+192,Verification,Insufficient Docs
+193,Verification,Incorrect Data Input
+194,Verification,Incorrect Data Input
+195,MCD,Incorrect Data Input
+196,Verification,Incorrect Data Input
+197,Verification,Incorrect Data Input
+198,Verification,Insufficient Docs
+199,Verification,Insufficient Docs
+200,Verification,Incorrect Data Input
+201,Verification,Insufficient Docs
+202,Verification,Inadequate Supp. comments
+203,Verification,Insufficient Docs
+204,Verification,Incorrect Data Input
+205,Verification,Incorrect Data Input
+206,Verification,Incorrect Data Input
+207,Verification,Insufficient Docs
+208,MCD,Incorrect Data Input
+209,Verification,Incorrect Data Input
+210,Verification,Insufficient Docs
+211,Verification,Insufficient Docs
+212,Verification,Incorrect Data Input
+213,Verification,Insufficient Docs
+214,Verification,Incorrect Docs
+215,Structure Solution,Incorrect Data Input
+216,Title Search,Insufficient Docs
+217,Verification,Inadequate Supp. comments
+218,Verification,Incorrect Data Input
+219,MCD,Unnecessary Referral
+220,Verification,Incorrect Data Input
+221,Verification,Incorrect Docs
+222,Verification,Inadequate Supp. comments
+223,Verification,Insufficient Docs
+224,Verification,Inadequate Supp. comments
+225,Verification,Insufficient Docs
+226,MCD,Unnecessary Referral
+227,Verification,Incorrect Data Input
+228,Verification,Incorrect Data Input
+229,Verification,Insufficient Docs
+230,Verification,Incorrect Data Input
+231,Title Search,Incorrect Data Input
+232,Title Search,Incorrect Data Input
+233,MCD,Inadequate Supp. comments
+234,Title Search,Incorrect Data Input
+235,MCD,Inadequate Supp. comments
+236,MCD,Unnecessary Referral
+237,Verification,Incorrect Data Input
+238,Verification,Incorrect Data Input
+239,Structure Solution,Incorrect Data Input
+240,Verification,Incorrect Data Input
+241,Verification,Incorrect Data Input
+242,Verification,Incorrect Data Input
+243,Title Search,Incorrect Data Input
+244,Verification,Incorrect Data Input
+245,Verification,Incorrect Data Input
+246,MCD,Unnecessary Referral
+247,MCD,Unnecessary Referral
+248,Verification,Incorrect Data Input
+249,Verification,Incorrect Data Input
+250,Verification,Incorrect Data Input
+251,Verification,Incorrect Data Input
+252,Title Search,Incorrect Data Input
+253,Verification,Unnecessary Referral
+254,Title Search,Incorrect Data Input
+255,Title Search,Incorrect Data Input
+256,Verification,Incorrect Data Input
+257,Title Search,Incorrect Data Input
+258,Title Search,Incorrect Data Input
+259,Title Search,Incorrect Data Input
+260,MCD,Unnecessary Referral
+261,Title Search,Incorrect Data Input
+262,Title Search,Incorrect Data Input
+263,Verification,Unnecessary Referral
+264,Verification,Incorrect Data Input
+265,Verification,Insufficient Docs
+266,Title Search,Incorrect Data Input
+267,Verification,Unnecessary Referral
+268,Title Search,Incorrect Data Input
+269,Verification,Insufficient Docs
+270,Verification,Insufficient Docs
+271,Verification,Incorrect Data Input
+272,Title Search,Incorrect Data Input
+273,Title Search,Incorrect Data Input
+274,Title Search,Incorrect Data Input
+275,Title Search,Incorrect Data Input
+276,Title Search,Incorrect Data Input
+277,Verification,Incorrect Data Input
+278,Verification,Incorrect Data Input
+279,MCD,Unnecessary Referral
+280,MCD,Cr. Comments not addr.
+281,MCD,Inadequate Supp. comments
+282,Verification,Unnecessary Referral
+283,Verification,Incorrect Data Input
+284,Verification,Inadequate Supp. comments
+285,Verification,Incorrect Data Input
+286,Verification,Unnecessary Referral
+287,MCD,Unnecessary Referral
+288,Title Search,Incorrect Data Input
+289,Verification,Incorrect Data Input
+290,Verification,Inadequate Supp. comments
+291,Verification,Unnecessary Referral
+292,Verification,Unnecessary Referral
+293,Title Search,Incorrect Data Input
+294,MCD,Unnecessary Referral
+295,MCD,Unnecessary Referral
+296,MCD,Inadequate Supp. comments
+297,MCD,Unnecessary Referral
+298,Title Search,Incorrect Data Input
+299,Verification,Incorrect Data Input
+300,Verification,Insufficient Docs
+301,Verification,Incorrect Data Input
+302,Verification,Unnecessary Referral
+303,MCD,Inadequate Supp. comments
+304,MCD,Incorrect Data Input
+305,MCD,Inadequate Supp. comments
+306,MCD,Unnecessary Referral
+307,MCD,Unnecessary Referral
+308,Verification,Incorrect Data Input
+309,Title Search,Incorrect Data Input
+310,Title Search,Incorrect Data Input
+311,Verification,Inadequate Supp. comments
+312,Verification,Insufficient Docs
+313,Verification,Inadequate Supp. comments
+314,Verification,Incorrect Data Input
+315,Verification,Insufficient Docs
+316,Verification,Incorrect Data Input
+317,Verification,Incorrect Data Input
+318,Title Search,Insufficient Docs
+319,Verification,Incorrect Docs
+320,Verification,Incorrect Data Input
+321,MCD,Unnecessary Referral
+322,MCD,Unnecessary Referral
+323,MCD,Unnecessary Referral
+324,Verification,Incorrect Data Input
+325,Verification,Incorrect Data Input
+326,Verification,Incorrect Data Input
+327,Verification,Incorrect Data Input
+328,MCD,Unnecessary Referral
+329,MCD,Unnecessary Referral
+330,Structure Solution,Incorrect Data Input
+331,Verification,Insufficient Docs
+332,MCD,Insufficient Docs
+333,MCD,Unnecessary Referral
+334,Verification,Unnecessary Referral
+335,Verification,Incorrect Data Input
+336,Verification,Incorrect Data Input
+337,Verification,Unnecessary Referral
+338,MCD,Unnecessary Referral
+339,MCD,Unnecessary Referral
+340,MCD,Incorrect Data Input
+341,MCD,Incorrect Data Input
+342,Verification,Incorrect Docs
+343,Structure Solution,Incorrect Data Input
+344,Structure Solution,Incorrect Data Input
+345,MCD,Unnecessary Referral
+346,MCD,Unnecessary Referral
+347,MCD,Unnecessary Referral
+348,MCD,Unnecessary Referral
+349,MCD,Incorrect Data Input
+350,Verification,Incorrect Data Input
+351,Create Offer,Incorrect Data Input
+352,Create Offer,Incorrect Data Input
+353,MCD,Unnecessary Referral
+354,Verification,Inadequate Supp. comments
+355,Verification,Incorrect Data Input
+356,Verification,Insufficient Docs
+357,Verification,Incorrect Data Input
+358,Verification,Incorrect Data Input
+359,Verification,Insufficient Docs
+360,Verification,Incorrect Data Input
+361,Verification,Incorrect Data Input
+362,Verification,Incorrect Data Input
+363,Structure Solution,Incorrect Data Input
+364,Structure Solution,Incorrect Data Input
+365,Verification,Incorrect Data Input
+366,Verification,Incorrect Data Input
+367,Verification,Incorrect Data Input
+368,Verification,Incorrect Data Input
+369,Structure Solution,Incorrect Data Input
+370,Create Offer,Incorrect Data Input
+371,Create Offer,Incorrect Data Input
+372,Verification,Insufficient Docs
+373,Verification,Insufficient Docs
+374,Verification,Incorrect Data Input
+375,Verification,Insufficient Docs
+376,Verification,Incorrect Data Input
+377,Verification,Insufficient Docs
+378,Verification,Incorrect Data Input
+379,Title Search,Incorrect Data Input
+380,Verification,Incorrect Data Input
+381,Verification,Incorrect Data Input
+382,Verification,Unnecessary Referral (Lender)
+383,Verification,Inadequate Supp. comments
+384,Verification,Unnecessary Referral (Lender)
+385,Verification,Incorrect Data Input
+386,Verification,Incorrect Data Input
+387,Verification,Inadequate Supp. comments
+388,Verification,Incorrect Data Input
+389,Title Search,Incorrect Data Input
+390,Verification,Incorrect Data Input
+391,Verification,Unnecessary Referral (Lender)
+392,Verification,Unnecessary Referral (Lender)
+393,Verification,Unnecessary Referral (Lender)
+394,Verification,Unnecessary Referral (Lender)
+395,Verification,Insufficient Docs
+396,Verification,Incorrect Data Input
+397,Verification,Unnecessary Referral (Lender)
+398,Title Search,Insufficient Docs
+399,Verification,Insufficient Docs
+400,MCD,Incorrect Data Input
+401,MCD,Inadequate Supp. comments
+402,MCD,Inadequate Supp. comments
+403,Verification,Insufficient Docs
+404,Verification,Incorrect Data Input
+405,Verification,Incorrect Data Input
+406,Verification,Unnecessary Referral (Lender)
+407,Verification,Unnecessary Referral (Lender)
+408,Verification,Insufficient Docs
+409,Verification,Unnecessary Referral (Lender)
+410,Verification,Insufficient Docs
+411,Verification,Insufficient Docs
+412,Verification,Incorrect Data Input
+413,Verification,Incorrect Data Input
+414,Verification,Unnecessary Referral (Lender)
+415,Verification,Incorrect Data Input
+416,MCD,Inadequate Supp. comments
+417,Structure Solution,Incorrect Data Input
+418,Verification,Unnecessary Referral (Lender)
+419,Verification,Insufficient Docs
+420,Verification,Insufficient Docs
+421,Verification,Insufficient Docs
+422,Verification,Incorrect Data Input
+423,Verification,Insufficient Docs
+424,Structure Solution,Incorrect Data Input
+425,Verification,Incorrect Docs
+426,Verification,Unnecessary Referral (Lender)
+427,Verification,Unnecessary Referral (Lender)
+428,Verification,Unnecessary Referral (Lender)
+429,Verification,Inadequate Supp. comments
+430,Verification,Insufficient Docs
+431,Verification,Insufficient Docs
+432,Verification,Unnecessary Referral (Lender)
+433,Verification,Unnecessary Referral (Lender)
+434,Title Search,Incorrect Data Input
+435,Verification,Insufficient Docs
+436,Valuation,Insufficient Docs
+437,Title Search,Incorrect Data Input
+438,Verification,Unnecessary Referral (Lender)
+439,Verification,Incorrect Docs
+440,Verification,Insufficient Docs
+441,Verification,Unnecessary Referral (Lender)
+442,Verification,Incorrect Data Input
+443,Verification,Incorrect Docs
+444,Verification,Unnecessary Referral (Lender)
+445,Verification,Unnecessary Referral (Lender)
+446,Verification,Insufficient Docs
+447,Verification,Unnecessary Referral (Lender)
+448,Structure Solution,Incorrect Data Input
+449,Verification,Unnecessary Referral (Lender)
+450,Verification,Incorrect Data Input
+451,Verification,Unnecessary Referral (Lender)
+452,Verification,Incorrect Docs
+453,Structure Solution,Incorrect Data Input
+454,Verification,Unnecessary Referral (Lender)
+455,Verification,Unnecessary Referral (Lender)
+456,Verification,Unnecessary Referral (Lender)
+457,MCD,Inadequate Supp. comments
+458,Verification,Unnecessary Referral (Lender)
+459,Verification,Unnecessary Referral (System)
+460,MCD,Inadequate Supp. comments
+461,Title Search,Incorrect Data Input
+462,Verification,Unnecessary Referral (Lender)
+463,Verification,Incorrect Data Input
+464,Verification,Insufficient Docs
+465,Verification,Inadequate Supp. comments
+466,Verification,Unnecessary Referral (Lender)
+467,Structure Solution,Incorrect Data Input
+468,Structure Solution,Incorrect Data Input
+469,Verification,Unnecessary Referral (Lender)
+470,Verification,Incorrect Docs
+471,Verification,Unnecessary Referral (Lender)
+472,Verification,Incorrect Data Input
+473,Verification,Incorrect Data Input
+474,Verification,Unnecessary Referral (Lender)
+475,MCD,Incorrect Data Input
+476,Structure Solution,Incorrect Data Input
+477,Verification,Unnecessary Referral (Lender)
+478,MCD,Inadequate Supp. comments
+479,Verification,Insufficient Docs
+480,Verification,Insufficient Docs
+481,Verification,Incorrect Data Input
+482,Verification,Unnecessary Referral (Lender)
+483,Verification,Unnecessary Referral (Lender)
+484,Verification,Incorrect Data Input
+485,Verification,Incorrect Docs
+486,Verification,Insufficient Docs
+487,Verification,Unnecessary Referral (Lender)
+488,Verification,Unnecessary Referral (Lender)
+489,Verification,Unnecessary Referral (Lender)
+490,Verification,Unnecessary Referral (Lender)
+491,Verification,Unnecessary Referral (Lender)
+492,Verification,Unnecessary Referral (Lender)
+493,Verification,Unnecessary Referral (Lender)
+494,Verification,Inadequate Supp. comments
+495,Verification,Incorrect Data Input
+496,Structure Solution,Incorrect Data Input
+497,Verification,Incorrect Data Input
+498,Verification,Insufficient Docs
+499,Verification,Unnecessary Referral (Lender)
+500,Verifications (Credit),Inadequate Supp. comments
+501,Verifications (Credit),Inadequate Supp. comments
+502,Verification,Incorrect Data Input
+503,Verification,Unnecessary Referral (Lender)
+504,Verification,Incorrect Data Input
+505,Complex Verification (SE),Inadequate Supp. comments
+506,Verification,Incorrect Data Input
